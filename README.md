@@ -12,3 +12,17 @@ Our database contains two tables. We've limited each table to 400 rows for this 
 
 #### Table 2: reviews
 <img src="https://user-images.githubusercontent.com/47163932/235062926-afdecb87-0cab-437e-8f4f-696d03c399f1.png"> 
+
+
+### Project Tasks
+
+#### 1. The ten best-selling video games
+#### 2. Missing review scores
+#### 3. Years that video game critics loved
+#### 4. Was 1982 really that great?
+#### 5. Years that dropped off the critics' favorites list
+#### 6. Years video game players loved
+#### 7. Years that both players and critics loved
+#### 8. Sales in the best video game years
+
+## [Solution](https://github.com/AhmedAboelkasem/Golden-Age-of-Video-Games/blob/main/Golden%20Age%20of%20Video%20Games.ipynb)
